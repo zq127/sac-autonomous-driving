@@ -1,0 +1,5 @@
+__pycache__/
+sac_logs/
+sac_models/
+*.pyc
+*.log
