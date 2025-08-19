@@ -1,5 +1,6 @@
 __pycache__/
 sac_logs/
 sac_models/
+logs/
 *.pyc
 *.log
